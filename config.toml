@@ -11,4 +11,4 @@ copyright = ""
 [params.search]
   enable = true
 [params.darkmode]
-  enable = true
+  enable = false

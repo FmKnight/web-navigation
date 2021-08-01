@@ -1,6 +1,6 @@
 ---
 title: "关于本站"
-date: 2021-01-30T17:00:00+08:00
+date: 2021-07-30T17:00:00+08:00
 draft: false
 ---
 
@@ -8,11 +8,28 @@ draft: false
 
 <br /><br />
 
-[![](https://img.shields.io/badge/repo-navigation-white?style=flat&logo=github&colorB=red)](https://github.com/BahuangShanren/navigation) 
-[![](https://img.shields.io/badge/theme-webstack%20hugo-white?style=flat&logo=github&colorB=blue)](https://github.com/iplaycode/webstack-hugo) 
-![](https://img.shields.io/github/workflow/status/BahuangShanren/navigation/Deploy%20Navigation/master?logo=github%20actions&logoColor=white) 
+[![](https://img.shields.io/badge/repo-navigation-white?style=flat&logo=github&colorB=red)](https://github.com/FmKnight/web-navigation) 
 
 <br /><br />
 
-- 基于 [`iplaycode`](https://github.com/iplaycode) 的 [`webstack-hugo`](https://github.com/iplaycode/webstack-hugo) 项目制作的导航网站
-- 本项目地址 [https://github.com/BahuangShanren/navigation](https://github.com/BahuangShanren/navigation)
+```
+就当一切都是必然
+
+这世间的美好事
+我们会一一遇到
+也都会一一失去
+
+你不能说 这刻骨铭心
+也不能说 这毫无意义
+也许该发生的事
+就该这样发生
+
+一定有很多事
+不需要理由发生
+
+我想我也终于需要承认
+这世间许多事 除了痛哭
+做什么也于事无补
+```
+
+项目地址 [https://github.com/FmKnight/web-navigation](https://github.com/FmKnight/web-navigation)
