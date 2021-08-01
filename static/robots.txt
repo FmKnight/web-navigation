@@ -1,0 +1,15 @@
+User-agent: *
+
+Allow: /index.html
+Disallow: /about/
+Disallow: /assets/
+Disallow: /categories/
+Disallow: /tags/
+Disallow: /*.svg$
+Disallow: /*.jpg$
+Disallow: /*.jpeg$
+Disallow: /*.gif$
+Disallow: /*.png$
+Disallow: /*.bmp$
+
+https://nav.fomal-haut.com/sitemap.xml

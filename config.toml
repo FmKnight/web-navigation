@@ -1,0 +1,14 @@
+baseURL = "https://nav.fomal-haut.com"
+languageCode = "zh-CN"
+title = "Fomal Haut导航"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+copyright = ""
+[params]
+  author = "Fomal Haut"
+  description = "Fomal Haut常用网址导航"
+[params.search]
+  enable = true
+[params.darkmode]
+  enable = true
