@@ -5,23 +5,18 @@
   links: 
     - title: 北落杂记
       qrcode: assets/images/fomal-stories-qrcode.png
-      logo: assets/images/favicon-con.png
+      logo: assets/images/fomal-stories.png
       description: 一眼见你,万物不及
 
-    - title: Stars
+    - title: MyGithub
       logo: assets/images/logos/Github.svg
-      url: https://github.com/BahuangShanren?tab=stars
-      description: 我的GitHub Stars
+      url: https://github.com/FmKnight/
+      description: GitHub
 
-    - title: 力扣
-      logo: assets/images/logos/Leetcode.svg
-      url: https://leetcode-cn.com/
-      description: 
-
-    - title: Typing practice
-      logo: assets/images/logos/Keybr.svg
-      url: https://www.keybr.com/
-      description: 
+    - title: CurlToCode
+      logo: assets/images/logos/app-ico.png
+      url: https://curl.trillworks.com/
+      description: Curl Syntax to Code
 
     - title: 哔哩哔哩
       logo: assets/images/logos/Bilibili.svg
@@ -38,69 +33,30 @@
       url: https://tophub.today
       description: 聚合类网络热闻榜单
 
-    - title: 百度翻译
-      logo: assets/images/logos/Baidu-Translator.svg
-      url: https://fanyi.baidu.com/
-      description: 
-
-- taxonomy: 云盘
+- taxonomy: 爬虫
   icon: fa-skyatlas
   links: 
-    - title: 百度网盘
-      logo: assets/images/logos/Baidu-Drive.svg
-      url: https://pan.baidu.com/
-      description: 
+    - title: CurlToCode
+      logo: assets/images/logos/app-ico.png
+      url: https://curl.trillworks.com/
+      description: Curl Syntax to Code
 
-    - title: 阿里云盘
-      logo: assets/images/logos/Ali-Drive.svg
-      url: https://www.aliyundrive.com/drive
-      description: 
 
-    - title: 曲奇云盘
-      logo: assets/images/logos/Quqi-Drive.svg
-      url: https://quqi.com/p/login.html
-      description: 随时可能跑路的垃圾网盘
-
-    - title: 蓝奏云
-      logo: assets/images/logos/Lanzou-Drive.svg
-      url: https://up.woozooo.com/
-      description: 
-
-    - title: 天翼云盘
-      logo: assets/images/logos/Tianyi-Drive.svg
-      url: https://cloud.189.cn/
-      description: 
-
-    - title: 迅雷云盘
-      logo: assets/images/logos/Xunlei.svg
-      url: https://pan.xunlei.com/
-      description: 
-
-    - title: WPS Cloud
-      logo: assets/images/logos/WPS-Cloud-EN.svg
-      url: https://drive.wps.com/
-      description: WPS国际版
-
-    - title: 金山文档
-      logo: assets/images/logos/WPS-Cloud.svg
-      url: https://www.kdocs.cn/
-      description: WPS中国版
-
-- taxonomy: 邮箱
-  icon: fa-envelope
+- taxonomy: 工具
+  icon: fa-wrench
   list: 
-    - term: 临时邮箱
+    - term: 格式化
       icon: fa-envelope-open
       links:
-        - title: 临时邮箱
-          logo: assets/images/logos/Linshiyouxiang.svg
-          url: https://linshiyouxiang.net/
-          description: 
+        - title: Code Highlight
+          logo: assets/images/logos/code-beautify.ico
+          url: https://highlightcode.com/
+          description: A free online tool for code highlighting
 
-        - title: Temp-Mail
-          logo: assets/images/logos/TempMail.svg
-          url: https://temp-mail.org/zh/
-          description: 
+        - title: Json格式化
+          logo: assets/images/logos/bejson.png
+          url: https://www.bejson.com/
+          description: Json格式化校验
 
         - title: Moakt
           logo: assets/images/logos/Moakt.svg
@@ -117,38 +73,24 @@
           url: https://jetable.org/en/index
           description: 有效时间1小时~1月
 
-    - term: 常用邮箱
-      icon: fa-envelope
-      links:
-        - title: QQ邮箱
-          logo: assets/images/logos/QQMail.svg
-          url: https://mail.qq.com/
-          description: 
+- taxonomy: aiera
+  icon: fa-building
+  links:
+    - title: Gitlab
+      logo: assets/images/logos/gitlab.svg
+      url: http://gitlab.aiera.tech/
+      description: 
 
-        - title: 网易邮箱
-          logo: assets/images/logos/Wangyi.svg
-          url: https://email.163.com/
-          description: 
+    - title: Yapi
+      logo: assets/images/logos/yapi.png
+      url: http://yaapi.aiera.tech/project/11/interface/api
+      description: 
 
-        - title: Gmail
-          logo: assets/images/logos/Gmail.svg
-          url: https://mail.google.com/
-          description: 
+    - title: TAPD
+      logo: assets/images/logos/tapd.ico
+      url: https://www.tapd.cn/34166030/prong/stories/stories_list
+      description: 
 
-        - title: Outlook
-          logo: assets/images/logos/Outlook.svg
-          url: https://outlook.live.com/
-          description: 
-
-        - title: Yandex.mail
-          logo: assets/images/logos/Yandex-Mail.svg
-          url: https://mail.yandex.com/
-          description: 
-
-        - title: Protonmail
-          logo: assets/images/logos/ProtonMail.svg
-          url: https://protonmail.com/zh-Hans/
-          description: 
 
 - taxonomy: 文件
   icon: fa-file
@@ -156,21 +98,6 @@
     - term: 分享
       icon: fa-share-square-o
       links:
-        - title: 钛盘
-          logo: assets/images/logos/Tmp.link.svg
-          url: https://app.tmp.link/
-          description: 
-
-        - title: 奶牛快传
-          logo: assets/images/logos/Cowtransfer.svg
-          url: https://cowtransfer.com/
-          description: 
-
-        - title: 空投
-          logo: assets/images/logos/Airportal.svg
-          url: https://airportal.cn/
-          description: 同属青柠起始页开发者作品
-
         - title: 文叔叔
           logo: assets/images/logos/Wenshushu.svg
           url: https://www.wenshushu.cn/
@@ -186,18 +113,7 @@
           url: https://www.file.io/
           description: 
 
-        - title: Wormhole
-          logo: assets/images/logos/Wormhole.svg
-          url: https://wormhole.app
-          description: 
-
         - title: FileTransfer
           logo: assets/images/logos/FileTransfer.svg
           url: https://filetransfer.io/
           description: 
-
-        - title: Swiss Transfer
-          logo: assets/images/logos/SwissTransfer.svg
-          url: https://www.swisstransfer.com/en
-          description: 文件最大50GB，最长保留30天
-

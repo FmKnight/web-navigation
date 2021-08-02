@@ -1,6 +1,6 @@
 {
-    "name": "\u516b\u8352\u5c71\u4eba\u5bfc\u822a",
-    "short_name": "\u516b\u8352\u5c71\u4eba\u5bfc\u822a",
+    "name": "\u0046\u006f\u006d\u0061\u006c\u0020\u0048\u0061\u0075\u0074\u5bfc\u822a",
+    "short_name": "\u0046\u006f\u006d\u0061\u006c\u0020\u0048\u0061\u0075\u0074\u5bfc\u822a",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -15,6 +15,6 @@
     ],
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "start_url": "https://nav.bahuangshanren.tech/",
+    "start_url": "http://localhost:1313",
     "display": "standalone"
 }
