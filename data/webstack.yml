@@ -14,19 +14,9 @@
       description: GitHub
 
     - title: CurlToCode
-      logo: assets/images/logos/app-ico.png
+      logo: assets/images/app-ico.png
       url: https://curl.trillworks.com/
       description: Curl Syntax to Code
-
-    - title: 哔哩哔哩
-      logo: assets/images/logos/Bilibili.svg
-      url: https://www.bilibili.com/
-      description: 
-
-    - title: 知乎
-      logo: assets/images/logos/Zhihu.svg
-      url: https://www.zhihu.com/
-      description: 问答平台
 
     - title: 今日热榜
       logo: assets/images/logos/Jinrirebang.svg
@@ -37,7 +27,7 @@
   icon: fa-skyatlas
   links: 
     - title: CurlToCode
-      logo: assets/images/logos/app-ico.png
+      logo: assets/images/app-ico.png
       url: https://curl.trillworks.com/
       description: Curl Syntax to Code
 
@@ -58,20 +48,13 @@
           url: https://www.bejson.com/
           description: Json格式化校验
 
-        - title: Moakt
-          logo: assets/images/logos/Moakt.svg
-          url: https://www.moakt.com/zh/mail
-          description: 
-
-        - title: Yopmail
-          logo: assets/images/logos/Yopmail.svg
-          url: http://www.yopmail.com/zh/
-          description: 
-
-        - title: Jetable
-          logo: assets/images/logos/Jetable.svg
-          url: https://jetable.org/en/index
-          description: 有效时间1小时~1月
+    - term: 网络
+      icon: fa-envelope-open
+      links:
+        - title: IP Query
+          logo: assets/images/logos/ip.svg
+          url: http://mip.chinaz.com/
+          description: IP查询及端口扫描
 
 - taxonomy: aiera
   icon: fa-building
@@ -90,6 +73,17 @@
       logo: assets/images/logos/tapd.ico
       url: https://www.tapd.cn/34166030/prong/stories/stories_list
       description: 
+
+    - title: CodeSign-设计图
+      logo: assets/images/logos/codesign.png
+      url: https://codesign.qq.com/workspace/project/O6ym7ZRobojAYED?folder=93474ca0-41a5-4b6a-a0d8-668f7738c2be
+      description: 
+
+    - title: CodeSign-原型
+      logo: assets/images/logos/aiera.png
+      url: https://codesign.qq.com/preview/prototype/XJMwy0bK7yZO6LB/qwKrMZeoM9k1mdP
+      description: 
+
 
 
 - taxonomy: 文件
@@ -117,3 +111,75 @@
           logo: assets/images/logos/FileTransfer.svg
           url: https://filetransfer.io/
           description: 
+
+- taxonomy: 云服务
+  icon: fa-cloud
+  links:
+      - title: 腾讯云
+        logo: assets/images/logos/tencent_cloud.png
+        url: https://www.wenshushu.cn/
+        description: 
+
+      - title: 阿里云
+        logo: assets/images/logos/ali_cloud.png
+        url: https://transfer.sh/
+        description: 
+
+      - title: 阿里云盘
+        logo: assets/images/logos/ali_cloud_drive.png
+        url: https://www.file.io/
+        description:
+
+
+- taxonomy: 博客
+  icon: fa-cloud
+  links:
+      - title: Java全栈@pdai
+        logo: assets/images/logos/pdai.gif
+        url: https://pdai.tech/
+        description: 
+
+      - title: 阮一峰网络日志
+        logo: assets/images/app-ico.png
+        url: https://www.ruanyifeng.com/blog/
+        description: 
+
+      - title: zhangkai
+        logo: assets/images/logos/zhangkai_blog.png
+        url: https://www.cnblogs.com/Neeo/
+        description: 
+
+      - title: 酷壳
+        logo: assets/images/logos/coolshell_logo.png
+        url: https://coolshell.cn/
+        description:
+
+      - title: 崔庆才
+        logo: assets/images/app-ico.png
+        url: https://cuiqingcai.com/
+        description: 
+
+      - title: Phodal
+        logo: assets/images/app-ico.png
+        url: https://www.phodal.com/
+        description: 
+
+      - title: hasaik
+        logo: assets/images/app-ico.png
+        url: https://blog.hasaik.com/
+        description: 
+
+
+- taxonomy: 论坛
+  icon: fa-comments
+  links:
+      - title: v2ex
+        logo: assets/images/logos/v2ex.ico
+        url: https://cn.v2ex.com/
+        description: 分享和探索
+
+      - title: v2ex酷工作
+        logo: assets/images/logos/v2ex.ico
+        url: https://v2ex.com/go/jobs
+        description: 
+
